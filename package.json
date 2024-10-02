@@ -13,6 +13,7 @@
     "repositoryUrl": "git@github.com:jahnavitiwari20/practice-assignment.git",
     "plugins": [
       "@semantic-release/commit-analyzer",
+      "@semantic-release/changelog",
       "@semantic-release/release-notes-generator",
       [
         "@semantic-release/changelog",
