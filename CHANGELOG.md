@@ -1,3 +1,17 @@
+## [1.1.2](https://github.com/jahnavitiwari20/practice-assignment/compare/v1.1.1...v1.1.2) (2024-10-02)
+
+
+### Bug Fixes
+
+* Node version change in yml file ([33e7022](https://github.com/jahnavitiwari20/practice-assignment/commit/33e70226e401551c736b0468d6ebf4407e8f1695))
+
+## [1.1.2](https://github.com/jahnavitiwari20/practice-assignment/compare/v1.1.1...v1.1.2) (2024-10-02)
+
+
+### Bug Fixes
+
+* Node version change in yml file ([33e7022](https://github.com/jahnavitiwari20/practice-assignment/commit/33e70226e401551c736b0468d6ebf4407e8f1695))
+
 ## [1.1.1](https://github.com/jahnavitiwari20/practice-assignment/compare/v1.1.0...v1.1.1) (2024-10-02)
 
 
