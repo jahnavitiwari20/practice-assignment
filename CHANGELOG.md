@@ -1,3 +1,17 @@
+## [1.1.1](https://github.com/jahnavitiwari20/practice-assignment/compare/v1.1.0...v1.1.1) (2024-10-02)
+
+
+### Bug Fixes
+
+* Removed some logs ([49a50eb](https://github.com/jahnavitiwari20/practice-assignment/commit/49a50eb1c51ec53f6d1c3e5be1783a80af4bddb6))
+
+## [1.1.1](https://github.com/jahnavitiwari20/practice-assignment/compare/v1.1.0...v1.1.1) (2024-10-02)
+
+
+### Bug Fixes
+
+* Removed some logs ([49a50eb](https://github.com/jahnavitiwari20/practice-assignment/commit/49a50eb1c51ec53f6d1c3e5be1783a80af4bddb6))
+
 # [1.1.0](https://github.com/jahnavitiwari20/practice-assignment/compare/v1.0.0...v1.1.0) (2024-10-02)
 
 
