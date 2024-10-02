@@ -30,7 +30,6 @@
       [
         "@semantic-release/git",
         {
-          "env": { "GITHUB_TOKEN": "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" },
           "assets": [
             "CHANGELOG.md",
             "package.json"
